@@ -563,3 +563,4 @@ fun AttendanceListScreenPreview() {
         AttendanceListScreen()
     }
 }
+

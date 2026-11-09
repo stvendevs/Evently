@@ -94,3 +94,4 @@ fun EventlyBottomBar(
 fun EventlyBottomBarPreview() {
     EventlyBottomBar()
 }
+

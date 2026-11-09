@@ -102,3 +102,4 @@ val dummyCertificate = CertificateRecord(
     councilPresidentName = "Marcus Vance",
     councilPresidentTitle = "Student Council President"
 )
+
